@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Clean your room",
+    "completed": false,
+    "id": 1
+  },
+  {
+    "title": "Read a book",
+    "completed": false,
+    "id": 2
+  },
+  {
+    "title": "Pay bills",
+    "completed": false,
+    "id": 4
+  },
+  {
+    "title": "Do laundry",
+    "completed": false,
+    "id": 5
+  }
+]
